@@ -4,7 +4,7 @@ const axios = require('axios');
 const WEBHOOK_URL = '<đã che>';
 const WS_URL = 'wss://console.altr.cc/ws';
 const HEADERS = {
-  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36',
+  'User-Agent': '< your UserAgent >',
   'Cookie': 'flux.sid=<cookie>; connect.sid=<cookie>'
 };
 
